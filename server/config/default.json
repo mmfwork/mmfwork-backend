@@ -1,0 +1,5 @@
+{
+    "firebase": {
+        "credentialsPath": "./config/firebase-adminsdk.json"
+    }
+}

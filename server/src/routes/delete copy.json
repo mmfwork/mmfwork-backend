@@ -1,0 +1,48 @@
+{
+    "questions":[
+        {
+            "id": "SgLUjUdFf9E2owFiOrgv",
+            "title": "Тут будет название опроса",
+            "topic": "Тема опроса",
+            "description": "Описание опроса",
+            "searchKeywords": [
+                "тут",
+                "будет",
+                "название",
+                "опроса"
+            ],
+            "variants":[
+                { 
+                    "id_question":"GNfpWcKb646KzXdtMXrR",
+                    "id_survey":"ZkV7AkA5IjBFciA0X8bS"
+                },
+                { 
+                    "id_question":"GNfpWcKb646KzXdtMXrR",
+                    "id_survey":"ZkV7AkA5IjBFciA0X8bS"
+                }
+            ]
+        },
+        {
+            "id": "SgLUjUdFf9E2owFiOrgv",
+            "title": "Тут будет название опроса",
+            "topic": "Тема опроса",
+            "description": "Описание опроса",
+            "searchKeywords": [
+                "тут",
+                "будет",
+                "название",
+                "опроса"
+            ],
+            "variants":[
+                { 
+                    "id_question":"GNfpWcKb646KzXdtMXrR",
+                    "id_survey":"ZkV7AkA5IjBFciA0X8bS"
+                },
+                { 
+                    "id_question":"GNfpWcKb646KzXdtMXrR",
+                    "id_survey":"ZkV7AkA5IjBFciA0X8bS"
+                }
+            ]
+        }
+    ]
+}
